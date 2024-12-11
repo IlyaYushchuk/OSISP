@@ -1,3 +1,0 @@
-﻿  Decoder.cpp
-D:\253505\5sem\OSiSP\LR3\LR3\Decoder\Decoder.cpp(54,65): warning C4267: аргумент: преобразование из "size_t" в "DWORD"; возможна потеря данных
-  Decoder.vcxproj -> D:\253505\5sem\OSiSP\LR3\LR3\x64\Debug\Decoder.exe
