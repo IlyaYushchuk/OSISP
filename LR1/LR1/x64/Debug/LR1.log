@@ -1,0 +1,4 @@
+﻿  LR1.cpp
+D:\253505\5sem\OSiSP\LR1\LR1\LR1.cpp(198,20): warning C4101: t2: неиспользованная локальная переменная
+D:\253505\5sem\OSiSP\LR1\LR1\LR1.cpp(198,16): warning C4101: t1: неиспользованная локальная переменная
+  LR1.vcxproj -> D:\253505\5sem\OSiSP\LR1\x64\Debug\LR1.exe

@@ -1,0 +1,8 @@
+﻿  LR3.cpp
+D:\253505\5sem\OSiSP\LR3\LR3\LR3\LR3.cpp(134,58): warning C4267: аргумент: преобразование из "size_t" в "DWORD"; возможна потеря данных
+D:\253505\5sem\OSiSP\LR3\LR3\LR3\LR3.cpp(138,58): warning C4267: аргумент: преобразование из "size_t" в "DWORD"; возможна потеря данных
+D:\253505\5sem\OSiSP\LR3\LR3\LR3\LR3.cpp(182,63): warning C4267: аргумент: преобразование из "size_t" в "DWORD"; возможна потеря данных
+D:\253505\5sem\OSiSP\LR3\LR3\LR3\LR3.cpp(230,59): warning C4267: аргумент: преобразование из "size_t" в "DWORD"; возможна потеря данных
+D:\253505\5sem\OSiSP\LR3\LR3\LR3\LR3.cpp(233,58): warning C4267: аргумент: преобразование из "size_t" в "DWORD"; возможна потеря данных
+D:\253505\5sem\OSiSP\LR3\LR3\LR3\LR3.cpp(294,63): warning C4267: аргумент: преобразование из "size_t" в "DWORD"; возможна потеря данных
+  LR3.vcxproj -> D:\253505\5sem\OSiSP\LR3\LR3\x64\Debug\LR3.exe

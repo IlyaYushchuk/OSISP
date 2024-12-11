@@ -1,0 +1,31 @@
+﻿  LR2.cpp
+D:\253505\5sem\OSiSP\LR2\LR2\LR2.cpp(58,40): warning C4101: e: неиспользованная локальная переменная
+D:\253505\5sem\OSiSP\LR2\LR2\LR2.cpp(111,65): warning C4267: аргумент: преобразование из "size_t" в "DWORD"; возможна потеря данных
+D:\253505\5sem\OSiSP\LR2\LR2\LR2.cpp(141,30): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+D:\253505\5sem\OSiSP\LR2\LR2\LR2.cpp(161,66): warning C4267: аргумент: преобразование из "size_t" в "DWORD"; возможна потеря данных
+D:\253505\5sem\OSiSP\LR2\LR2\LR2.cpp(281,34): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+D:\253505\5sem\OSiSP\LR2\LR2\LR2.cpp(335,26): warning C4244: return: преобразование "_Rep" в "int", возможна потеря данных
+D:\253505\5sem\OSiSP\LR2\LR2\LR2.cpp(335,26): warning C4244:         with
+D:\253505\5sem\OSiSP\LR2\LR2\LR2.cpp(335,26): warning C4244:         [
+D:\253505\5sem\OSiSP\LR2\LR2\LR2.cpp(335,26): warning C4244:             _Rep=__int64
+D:\253505\5sem\OSiSP\LR2\LR2\LR2.cpp(335,26): warning C4244:         ]
+D:\253505\5sem\OSiSP\LR2\LR2\LR2.cpp(396,34): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+D:\253505\5sem\OSiSP\LR2\LR2\LR2.cpp(427,26): warning C4244: return: преобразование "_Rep" в "int", возможна потеря данных
+D:\253505\5sem\OSiSP\LR2\LR2\LR2.cpp(427,26): warning C4244:         with
+D:\253505\5sem\OSiSP\LR2\LR2\LR2.cpp(427,26): warning C4244:         [
+D:\253505\5sem\OSiSP\LR2\LR2\LR2.cpp(427,26): warning C4244:             _Rep=__int64
+D:\253505\5sem\OSiSP\LR2\LR2\LR2.cpp(427,26): warning C4244:         ]
+D:\253505\5sem\OSiSP\LR2\LR2\LR2.cpp(502,34): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+D:\253505\5sem\OSiSP\LR2\LR2\LR2.cpp(563,29): warning C4244: аргумент: преобразование "double" в "DWORD", возможна потеря данных
+D:\253505\5sem\OSiSP\LR2\LR2\LR2.cpp(569,26): warning C4244: return: преобразование "_Rep" в "int", возможна потеря данных
+D:\253505\5sem\OSiSP\LR2\LR2\LR2.cpp(569,26): warning C4244:         with
+D:\253505\5sem\OSiSP\LR2\LR2\LR2.cpp(569,26): warning C4244:         [
+D:\253505\5sem\OSiSP\LR2\LR2\LR2.cpp(569,26): warning C4244:             _Rep=__int64
+D:\253505\5sem\OSiSP\LR2\LR2\LR2.cpp(569,26): warning C4244:         ]
+D:\253505\5sem\OSiSP\LR2\LR2\LR2.cpp(686,53): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+D:\253505\5sem\OSiSP\LR2\LR2\LR2.cpp(742,15): warning C4244: инициализация: преобразование "_Rep" в "int", возможна потеря данных
+D:\253505\5sem\OSiSP\LR2\LR2\LR2.cpp(742,15): warning C4244:         with
+D:\253505\5sem\OSiSP\LR2\LR2\LR2.cpp(742,15): warning C4244:         [
+D:\253505\5sem\OSiSP\LR2\LR2\LR2.cpp(742,15): warning C4244:             _Rep=__int64
+D:\253505\5sem\OSiSP\LR2\LR2\LR2.cpp(742,15): warning C4244:         ]
+  LR2.vcxproj -> D:\253505\5sem\OSiSP\LR2\x64\Debug\LR2.exe
